@@ -1,0 +1,5 @@
+chool.insert(
+	{
+		name: "Holberton school"
+	}
+)
